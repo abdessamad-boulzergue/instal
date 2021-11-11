@@ -1,0 +1,12 @@
+[mysqld]
+basedir=D:/abdos/workspace/installer/mysql
+datadir=D:/abdos/workspace/installer/mysql
+socket=D:/abdos/workspace/installer/mysql/mysql.sock
+lc-messages-dir=D:/abdos/workspace/installer/mysql/share
+character-sets-dir=D:/abdos/workspace/installer/mysql/share/charsets
+port=3305
+wait_timeout=2147483
+interactive_timeout=2147483
+bind-address=127.0.0.1
+#secure-file-priv==""
+
